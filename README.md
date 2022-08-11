@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about Rust! But i don`t know
 - 📫 How to reach me: tg = @Adamanq 
 
-![](https://github-readme-stats.vercel.app/api?username=adamanr&hide_border=true&show_icons=true&layout=compact&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adamanr&hide_border=true&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=Adamanr&hide_border=true&show_icons=true&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adamanr&hide_border=true&layout=compact&theme=dark)
 
 - 🦀 Rust
 - Embedded Rust
