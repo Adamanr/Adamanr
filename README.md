@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 </a>
  
 | Go        | Specifiation           | Rust | Specification |
-| ------------- |:-------------:| 
+| ------------- |:-------------:|:-------------:|:-------------:|
 |  <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/go.svg" />      |  <ul> <li>Back-end</li> <li>System</li> </ul> |
 <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/rust.svg" /> |     <ul><li>Backend Rust</li><li>System</li> <li>Embedded</li><li>Games *In future </li></ul> |
 
