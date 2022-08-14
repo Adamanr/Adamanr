@@ -10,13 +10,13 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adamanr&hide_border=true&show_icons=true&theme=moltack"/>
 </a>
  
-
+| Language        | Specifiation           | 
+| ------------- |:-------------:| 
+|  <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/go.svg" />      |  <ul> <li>Back-end</li> <li>System</li> </ul> |
+|  <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/rust.svg" /> |     <ul><li>Backend Rust</li><li>System</li> <li>Embedded</li><li>Games *In future </li></ul> |
 Colons can be used to align columns.
 
 
 
 
-| Language        | Specifiation           | 
-| ------------- |:-------------:| 
-|  <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/go.svg" />      |  <ul> <li>Back-end</li> <li>System</li> </ul> |
-|  <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/rust.svg" /> |     <ul><li>Backend Rust</li><li>System</li> <li>Embedded</li><li>Games *In future </li></ul> |
+
