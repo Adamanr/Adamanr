@@ -1,9 +1,4 @@
 ### Hi there 👋
-<style>
-  table {
-    border-style:none;
-  }
-</style>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on embedded development rust and backend development rust
