@@ -1,20 +1,16 @@
 ### Hi there 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adamanr&hide_border=true&show_icons=true&theme=moltack"/>
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamanr&hide_border=true&theme=moltack" />
-</a>
-
-</div>
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on embedded development rust and backend development rust
 - 🌱 I’m currently learning Rust? Rust! (And Go, but...But i still rust) 
 - 💬 Ask me about Rust! But i don`t know
-- 📫 How to reach me: tg = @Adamanq 
+- 📫 How to reach me: tg = @Adamanq | Email: Adamanq@yandex.ru 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adamanr&hide_border=true&show_icons=true&theme=moltack"/>
+</a>
+
 <tr>
     <td>
       <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/go.svg" />
