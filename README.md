@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <table style="border:none">
   <tr>
     <td>
-    <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/go.svg" />
+      <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/go.svg" />
     </td>
     <td style="width:50%">   
        <p>🤙 Go</p>
@@ -27,7 +27,6 @@ Here are some ideas to get you started:
         <li>System</li>
       </ul>
     </td>
-    
     <td> 
         <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/rust.svg" />
     </td>  
