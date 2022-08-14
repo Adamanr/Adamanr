@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adamanr&hide_border=true&show_icons=true&theme=moltack"/>
 </a>
-
+<table>
 <tr>
     <td>
       <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/go.svg" />
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
       </ul>
     </td> 
   <tr>    
-  
+</table>
 
 
 
