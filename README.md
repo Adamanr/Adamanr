@@ -1,5 +1,11 @@
 ### Hi there 👋
-![](https://github-readme-stats.vercel.app/api?username=Adamanr&hide_border=true&show_icons=true&layout=compact&theme=moltack)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adamanr&hide_border=true&show_icons=true&layout=compact&theme=moltack"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamanr&hide_border=true&layout=compact&theme=moltack" />
+</a>
 
 Here are some ideas to get you started:
 
@@ -9,13 +15,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: tg = @Adamanq 
 
 
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adamanr&hide_border=true&layout=compact&theme=moltack)
+🦀 Rust
+<ul><ul>
+  <li>Backend Rust</li>
+  <li>System</li>
+  <li>Embedded</li>
+  <li>Games *In future </li>
+</ul>
 
-
-- 🦀 Rust
-- Embedded Rust
-- Back-end 
-- System 
-
-- 🤙 Go
-- Back-end
+🤙 Go
+<ul>
+  <li>Back-end</li>
+  <li>System</li>
+</ul>
