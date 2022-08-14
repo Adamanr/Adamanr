@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <td>   
+    <td style="width:50%">   
       <p>🤙 Go</p>
     <ul>
       <li>Back-end</li>
