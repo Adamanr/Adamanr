@@ -16,25 +16,26 @@ Here are some ideas to get you started:
 - 💬 Ask me about Rust! But i don`t know
 - 📫 How to reach me: tg = @Adamanq 
 
-<div style="display:flex;"> 
-  <div>
-    <p>🤙 Go</p>
+<table>
+  <tr>
+    <td>   
+      <p>🤙 Go</p>
     <ul>
       <li>Back-end</li>
       <li>System</li>
-    </ul>
-  </div>
-  <div>
+    </ul></td>
+    <td> 
     <p>🦀 Rust</p>
     <ul><ul>
       <li>Backend Rust</li>
       <li>System</li>
       <li>Embedded</li>
       <li>Games *In future </li>
-    </ul>
-  </div>
-</div>
-
+    </ul></td>
+  <tr>
+      
+</table>
+  
 
 
 
