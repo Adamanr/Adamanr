@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Rust? Rust! (And Go, but...But i still rust) 
 - 💬 Ask me about Rust! But i don`t know
 - 📫 How to reach me: tg = @Adamanq 
-<table style="border:none">
+<table style="border-style: none;text-align:center">
   <tr>
     <td>
       <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/go.svg" />
