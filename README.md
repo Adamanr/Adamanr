@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <div style="display:flex">
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats" style="width:50%">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adamanr&hide_border=true&show_icons=true&layout=compact&theme=moltack"/>
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/convoychat" stlye="width:50%">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamanr&hide_border=true&layout=compact&theme=moltack" />
 </a>
 
