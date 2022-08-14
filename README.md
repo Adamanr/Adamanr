@@ -15,35 +15,32 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Rust? Rust! (And Go, but...But i still rust) 
 - 💬 Ask me about Rust! But i don`t know
 - 📫 How to reach me: tg = @Adamanq 
-<table>
+<table style="border:none">
   <tr>
     <td>
     <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/go.svg" />
     </td>
     <td style="width:50%">   
-      <p>🤙 Go</p>
-    <ul>
-      <li>Back-end</li>
-      <li>System</li>
-    </ul></td>
+       <p>🤙 Go</p>
+      <ul>
+        <li>Back-end</li>
+        <li>System</li>
+      </ul>
+    </td>
+    
     <td> 
         <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/rust.svg" />
-    <td>
+    <td>  
     </td>
-    <td>
-      
-    </td>
-    <p>🦀 Rust</p>
-    <ul><ul>
-      <li>Backend Rust</li>
-      <li>System</li>
-      <li>Embedded</li>
-      <li>Games *In future </li>
-    </ul>
-      </td>
-   
-  <tr>
-      
+      <p>🦀 Rust</p>
+      <ul>
+        <li>Backend Rust</li>
+        <li>System</li>
+        <li>Embedded</li>
+        <li>Games *In future </li>
+      </ul>
+    </td> 
+  <tr>    
 </table>
   
 
