@@ -30,8 +30,8 @@ Here are some ideas to get you started:
     
     <td> 
         <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/rust.svg" />
-    <td>  
-    </td>
+    </td>  
+    <td>
       <p>🦀 Rust</p>
       <ul>
         <li>Backend Rust</li>
