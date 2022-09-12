@@ -1,4 +1,4 @@
-### Hi there 👋
+## I`m a junnior Software Developer 
 
 A little about me
 - 🔭 Now I work with Go/Rust languages and mostly use them (Also, sometimes I use Ruby, but I plan to take it more often)
@@ -7,7 +7,6 @@ A little about me
 - 📫 How to contact me? tg = @Adamant | Email address: Adamanq@yandex.ru
 - 🌠 I also like to read books, listen to music and learn something new! If you don't believe in yourself, then believe in me! Believe in my faith in you
 
-## I`m a junnior Software Developer 
 
 ### Languages and Tools:
 ![Go](https://img.shields.io/badge/-Go-red?style=for-the-badge&logo=Go&logoColor=47C5FB)
