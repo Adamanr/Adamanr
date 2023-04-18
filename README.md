@@ -1,7 +1,7 @@
 ## I`m a Software Developer 
 
 A little about me
-- 🔭 Now I work with Go languages and mostly use them (Also, sometimes I use Ruby and Rust, but I plan to take it more often)
+- 🔭 Now I work with Ruby languages and mostly use them (Also, sometimes I use Rust, but I plan to take it more often)
 - 📕 I like to study programming languages and new technologies (Because of this I know Java/C++/PHP and a bunch of different things... But I only write in Rust/Ruby!!!!)  
 - 💬 I like to talk and help others with solving a problem!   
 - 📫 How to contact me? tg = @Adamant | Email address: Adamanq@yandex.ru
