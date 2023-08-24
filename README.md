@@ -19,7 +19,6 @@ A little about me
 
 ### Follow Me:
 [![Telegram](https://img.shields.io/badge/-telegram-red?style=for-the-badge&logo=telegram&logoColor=47C5FB)](https://t.me/Adamanq)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-red?style=for-the-badge&logo=Vk&logoColor=47C5FB)](https://vk.com/adamancry)
 [![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=Mail.ru&logoColor=47C5FB)](mailto:Adamanq@yandex.ru)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
