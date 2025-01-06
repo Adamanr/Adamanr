@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Artyom!
 
 ### 💻 Software Developer | 🚀 Tech Enthusiast | 📚 Lifelong Learner 
+<br>
 
 ## 🧑‍💻 About Me
 
@@ -14,6 +15,7 @@ I'm a passionate software developer who loves building efficient and scalable sy
   - Email: [Adamanq@yandex.ru](mailto:Adamanq@yandex.ru)
 - **🌠 Hobbies:** Reading books, listening to music, and learning new things.  
   *"If you don't believe in yourself, then believe in me! Believe in my faith in you."*
+<br>
 
 ## 🛠️ Languages and Tools
 
@@ -28,6 +30,8 @@ Here are the technologies I work with:
 ![Kafka](https://img.shields.io/badge/-Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
+<br>
+
 
 ## 📊 GitHub Stats
 
@@ -38,6 +42,8 @@ Here are the technologies I work with:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamanr&hide_border=true&layout=compact&theme=radical" />
 </a>
 
+<br>
+<br>
 
 ## 🌐 Follow Me
 
@@ -46,5 +52,6 @@ Let's connect and collaborate!
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Adamanq)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:Adamanq@yandex.ru)
 
+<br>
 
 ⭐ *"The only way to do great work is to love what you do."* – Steve Jobs
