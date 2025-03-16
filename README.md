@@ -1,20 +1,20 @@
 # 👋 Hello, I'm Artyom!
 
-### 💻 Software Developer | 🚀 Tech Enthusiast | 📚 Lifelong Learner 
+### 💻 Software Developer | 🌠 Tech Explorer | 📚 Infinite Learner  
 <br>
 
-## 🧑‍💻 About Me
+## 👨‍💻 **About Me**
 
-I'm a passionate software developer who loves building efficient and scalable systems. My journey in tech is driven by curiosity and a desire to constantly learn and grow. Here's a little more about me:
+I'm Artyom, a software developer with a passion for crafting elegant, efficient, and scalable systems. My journey in tech is fueled by an insatiable curiosity and a relentless drive to push boundaries. Here's a glimpse into my world:
+- **🌍 Currently:** Building robust backend systems with **Go (Golang)** in commercial projects, while diving into the fascinating worlds of **Rust** and **Elixir** in my spare time.  
+- **📖 Learning:** Forever a student of code. I’ve dabbled in **Java**, **C++**, and **PHP**, but my heart beats for **Rust** and **Elixir** – their elegance and power keep me hooked!  
+- **💬 Passionate about:** Collaborating on innovative projects, brainstorming ideas, and solving complex problems. If you have a challenge, let’s tackle it together!  
+- **📫 Reach me:**  
+  - **Telegram:** [@Adamanq](https://t.me/Adamanq)  
+  - **Email:** [Adamanq@yandex.ru](mailto:Adamanq@yandex.ru)  
+- **🎯 Hobbies:** Reading thought-provoking books, exploring new music, and tinkering with cutting-edge tech.  
 
-- **🔭 Currently working with:** Go (Golang) in commercial projects, where I focus on building robust and scalable backend systems. I also enjoy working on pet projects in Rust and Elixir, exploring their unique strengths and paradigms.
-- **📚 Learning:** Always exploring new programming languages and technologies. I have experience with Java, C++, PHP, and more, but my heart belongs to Rust and Elixir!
-- **💬 Love to:** Collaborate, discuss ideas, and help others solve problems. Feel free to reach out!
-- **📫 How to contact me:**  
-  - Telegram: [@Adamanq](https://t.me/Adamanq)  
-  - Email: [Adamanq@yandex.ru](mailto:Adamanq@yandex.ru)
-- **🌠 Hobbies:** Reading books, listening to music, and learning new things.  
-  *"If you don't believe in yourself, then believe in me! Believe in my faith in you."*
+
 <br>
 
 ## 🛠️ Languages and Tools
@@ -54,4 +54,5 @@ Let's connect and collaborate!
 
 <br>
 
-⭐ *"The only way to do great work is to love what you do."* – Steve Jobs
+⭐ *"That may be, but I still believe. In the me that I believe in. In humanity. In the future. I believe. My drill is my soul!"* – **Simon, Gurren Lagann**  
+✨ *"We brawlers are sustained by willpower! Even when mocked as reckless and crazy!"* – **Kamina, Gurren Lagann**  
