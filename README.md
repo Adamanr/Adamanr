@@ -1,25 +1,55 @@
-# 👋 Hello, I'm Artyom!
-
-### 💻 Software Developer | 🌠 Tech Explorer | 📚 Infinite Learner  
-<br>
-
-## 👨‍💻 **About Me**
-
-I'm Artyom, a software developer with a passion for crafting elegant, efficient, and scalable systems. My journey in tech is fueled by an insatiable curiosity and a relentless drive to push boundaries. Here's a glimpse into my world:
-- **🌍 Currently:** Building robust backend systems with **Go (Golang)** in commercial projects, while diving into the fascinating worlds of **Rust** and **Elixir** in my spare time.  
-- **📖 Learning:** Forever a student of code. I’ve dabbled in **Java**, **C++**, and **PHP**, but my heart beats for **Rust** and **Elixir** – their elegance and power keep me hooked!  
-- **💬 Passionate about:** Collaborating on innovative projects, brainstorming ideas, and solving complex problems. If you have a challenge, let’s tackle it together!  
-- **📫 Reach me:**  
-  - **Telegram:** [@Adamanq](https://t.me/Adamanq)  
-  - **Email:** [Adamanq@yandex.ru](mailto:Adamanq@yandex.ru)  
-- **🎯 Hobbies:** Reading thought-provoking books, exploring new music, and tinkering with cutting-edge tech.  
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 
 <br>
+<br>
 
-## 🛠️ Languages and Tools
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&size=20&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Artyom+👋;I'm+22+years+old;I'm+a+programmer+and+an+IT+profissional;Be+Welcome+to+github+profile!+:%29)
+<br>
+<br>
 
-Here are the technologies I work with:
+<br><br>
+
+<!--   my-header-img -->
+![](./src/header_.png)
+<!--<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a> -->
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, this is my github perfil be welcome!
+
+<p>
+    <a href="https://github.com/adamanr/adamanr"><img width=120px src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/adamanr/adamanr/graphs/contributors"><img width=110px src="https://img.shields.io/github/contributors/adamanr/adamanr?color=blue"></a>
+    <a href="https://github.com/adamanr/adamanr/stargazers"><img width=95px src="https://img.shields.io/github/stars/adamanr/adamanr.svg?logo=github"></a>
+</p>
+
+<br>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+I am 🧙 Programmer and fullstack developer on 🦀 Rust 🧪 Elixir 🦫 Go Developer
+
+Welcome to my page! In my GitHub profile you can find:
+- Projects developed in Elixir using the Phoenix framework 🧪
+- Projects written in the Go programming language 🦫
+- Projects created in the Rust programming language 🦀
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+## 🔎 You can find me on:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Adamanq)
+<a href = "mailto:Adamanq@yandex.ru"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+<br>
+
+
+## 🥇 Technology's
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -29,28 +59,39 @@ Here are the technologies I work with:
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<br>
+### 🥈 Other stack 
 
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-## 📊 GitHub Stats
+## 👤 Profile Views
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adamanr&hide_border=true&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamanr&hide_border=true&layout=compact&theme=radical" />
-</a>
+<br><br>
 
-<br>
-<br>
+![](https://count.getloli.com/get/@adamanr.github.readme)
 
-## 🌐 Follow Me
+<br><br>
 
-Let's connect and collaborate!
+## 📈 Github stats:
 
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Adamanq)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:Adamanq@yandex.ru)
+<!--color=00bfbf-->
+
+<!--<div align="center">  -->
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adamanr&show_icons=true&theme=radical" alt="Adamanr GitHub Stats">
+    </td>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adamanr&theme=tokyonight">
+    </td>
+  </tr>
+</table>
 
 <br>
 
