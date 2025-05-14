@@ -13,20 +13,12 @@
 ![](./src/header_.png)
 <!--<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a> -->
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, this is my github perfil be welcome!
-
-<p>
-    <a href="https://github.com/adamanr/adamanr"><img width=120px src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/adamanr/adamanr/graphs/contributors"><img width=110px src="https://img.shields.io/github/contributors/adamanr/adamanr?color=blue"></a>
-    <a href="https://github.com/adamanr/adamanr/stargazers"><img width=95px src="https://img.shields.io/github/stars/adamanr/adamanr.svg?logo=github"></a>
-</p>
-
 <br>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-I am 🧙 Programmer and fullstack developer on 🦀 Rust 🧪 Elixir 🦫 Go Developer
+My name is Artyom and I'm 🧙 programmer on 🦀 Rust 🧪 Elixir 🦫 Go developer
 
-Welcome to my page! In my GitHub profile you can find:
+In my GitHub profile you can find:
 - Projects developed in Elixir using the Phoenix framework 🧪
 - Projects written in the Go programming language 🦫
 - Projects created in the Rust programming language 🦀
